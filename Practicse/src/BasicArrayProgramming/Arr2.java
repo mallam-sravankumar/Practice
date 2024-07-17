@@ -3,6 +3,7 @@ package BasicArrayProgramming;
 public class Arr2 {
 public static void main(String[] args) {
 	int a[];
+	
 	a=new int[6];
 	a[0]=50;
 			a[1]=50;
