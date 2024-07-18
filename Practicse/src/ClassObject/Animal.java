@@ -16,7 +16,7 @@ public String toString()
 	return DogName+" "+Breed+" "+color;
 }
 public static void main(String[] args) {
-	Animal a=new Animal("Chinu","labrator","White");
+	Animal a=new Animal("Chintu","labrator","White");
 	String s=a.toString();
 	System.out.println(s);
 }
