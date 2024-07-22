@@ -1,4 +1,4 @@
-package SingleLvelInheritance;
+package SingleInheritance;
 
 public class Animal {
 public void eat()
