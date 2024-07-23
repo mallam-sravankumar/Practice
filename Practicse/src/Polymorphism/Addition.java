@@ -1,5 +1,5 @@
 package Polymorphism;
-
+//compileTime polymorphism
 public class Addition {
 public static void add(int i,int j)
 {
